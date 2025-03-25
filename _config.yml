@@ -28,9 +28,6 @@ url: "https://woosang-cho.github.io"
 github:
   username: Woosang-Cho # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
-
 # Math equation
 markdown: kramdown
 highlighter: rouge
