@@ -14,6 +14,9 @@ MathJax = {
       ['$', '$'],
       ['\\(', '\\)']
     ],
+    {
+      processEscapes: false
+    }
     {%- comment -%} start/end delimiter pairs for display math {%- endcomment -%}
     displayMath: [
       ['$$', '$$'],
