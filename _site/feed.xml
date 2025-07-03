@@ -1,0 +1,143 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Woosang's Blog</title>
+  <subtitle>심심해서 만들었음.</subtitle>
+  <updated>2025-06-10T18:31:10+09:00</updated>
+  <author>
+    <name>Woosang</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Woosang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>간단한 미분방정식 정리</title>
+    <link href="http://localhost:4000/posts/%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%AF%B8%EB%B6%84%EB%B0%A9%EC%A0%95%EC%8B%9D/" rel="alternate" type="text/html" title="간단한 미분방정식 정리" />
+    <published>2025-04-15T00:00:00+09:00</published>
+  
+    <updated>2025-04-15T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%AF%B8%EB%B6%84%EB%B0%A9%EC%A0%95%EC%8B%9D/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%AF%B8%EB%B6%84%EB%B0%A9%EC%A0%95%EC%8B%9D/" />
+    <author>
+      <name>Woosang</name>
+    </author>
+
+  
+    
+    <category term="수학" />
+    
+  
+
+  <summary>미분방정식  물리 계를 다루다 보면 미분방정식을 풀어야 하는 경우가 있다.  특히 뉴턴 법칙 $F=ma$가 시간에 대한 두 번 미분을 포함하므로 2계 미분방정식을 주목할 필요가 있다.  먼저 용수철의 복원력만이 작용하는 경우를 이해하고, 진자와 단순조화진동을 이해한다. 이를 응용해 감쇠진동, 강제진동의 상황을 해석한다. 추가적으로 현수선을 다룬다.     간단한 미적분학을 알고 있다는 가정 하에 작성함.   1. 마찰 없이 복원력만 작용하는 용수철  마찰이 없는 $x$축 상에 질량 $m$인 물체를 매달아둔다. 훅은 용수철에 매달린 물체를 당기면 그 반대 방향으로, 당긴 길이에 비례하는 힘이 작용한다는 사실을 실험을 통해 알아냈다.  \(F_s = -kx  \tag{1}\)  한편 뉴턴 법칙을 적용하면 ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>물리 실험 보고서 쓰는 방법 - 과학적 글쓰기</title>
+    <link href="http://localhost:4000/posts/%EB%AC%BC%EB%A6%AC-%EC%8B%A4%ED%97%98-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%93%B0%EA%B8%B0/" rel="alternate" type="text/html" title="물리 실험 보고서 쓰는 방법 - 과학적 글쓰기" />
+    <published>2025-04-02T00:00:00+09:00</published>
+  
+    <updated>2025-04-02T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%AC%BC%EB%A6%AC-%EC%8B%A4%ED%97%98-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%93%B0%EA%B8%B0/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EB%AC%BC%EB%A6%AC-%EC%8B%A4%ED%97%98-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%93%B0%EA%B8%B0/" />
+    <author>
+      <name>Woosang</name>
+    </author>
+
+  
+    
+    <category term="기타" />
+    
+  
+
+  <summary>1. 형식 부분 - 기본적인 형식 지키기  1.1. 목차 형식 지키기    실험 목적   실험 이론   실험 방법   실험 기구   결과 및 오차분석   결론 및 토의      기본적인 형식을 지키도록 한다.   1.2. 수식, 표, 참고문헌 인용 형식 지키기     수식과 표에 label을 잘 달아주기   문장 끝에 참고문헌 달면 ref bib 형식 잘 맞추기   1.3. 설명에 가능하면 그림 넣기     수식 설명이나 실험기구 설명 등 가능하면 그림을 그려 넣는다  그리고 반드시 그림에 대한 설명을 본문에서 해준다.   2. 내용 부분 - 논리적 글쓰기 좋은 과학적 글쓰기를 위해서는  단순히 맞추기만 하면 되는 형식과 다르게 논리적 글쓰기가 필요하다.  2.1. 약자 등을 사용할 때 반드시 설명 써...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>github 기초 이용(repo 생성 후 remote와 push)</title>
+    <link href="http://localhost:4000/posts/github-%EA%B8%B0%EC%B4%88-%EC%9D%B4%EC%9A%A9/" rel="alternate" type="text/html" title="github 기초 이용(repo 생성 후 remote와 push)" />
+    <published>2025-03-29T00:00:00+09:00</published>
+  
+    <updated>2025-03-29T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/github-%EA%B8%B0%EC%B4%88-%EC%9D%B4%EC%9A%A9/</id>
+    <content type="text/html" src="http://localhost:4000/posts/github-%EA%B8%B0%EC%B4%88-%EC%9D%B4%EC%9A%A9/" />
+    <author>
+      <name>Woosang</name>
+    </author>
+
+  
+    
+    <category term="기타" />
+    
+  
+
+  <summary>0. Github 기본 원리          github에 만든 repository에 연결해 파일을 수정, 저장한다           repo 생성 -&amp;amp;gt; local에서 remote 연결 -&amp;amp;gt; 파일 수정 후 commit/push      1. 새로운 repository를 만들고 local 자료를 올리기  1.1. 먼저 github에 들어가 새로운 repo를 생성한다     이후 링크를 복사해 둔다   1.2. Local 컴퓨터에서 git 초기화  git init      해당 폴더의 git 초기화라서 다른 코드가 날아가는건 아님   1.3. Github 원격 저장소 연결  git remote add origin &amp;quot;레포지토리_URL&amp;quot;          https로 시작하는 그 url 말하는거 맞음...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>함수</title>
+    <link href="http://localhost:4000/posts/%ED%95%A8%EC%88%98/" rel="alternate" type="text/html" title="함수" />
+    <published>2025-03-26T00:00:00+09:00</published>
+  
+    <updated>2025-03-26T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%ED%95%A8%EC%88%98/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%ED%95%A8%EC%88%98/" />
+    <author>
+      <name>Woosang</name>
+    </author>
+
+  
+    
+    <category term="수학" />
+    
+  
+
+  <summary>1. 집합의 연산  집합을 생각한다  이왕이면 집합 두 개를 생각한다.  그걸 집합 $A$와 $B$라고 하자.  그럼 이걸로 무엇을 할 수 있을까?…  고민해본다  그럼 문득 $A \cup B = { x \mid x \in A  \text{ or } x \in B }$ 라는 연산과  $A \cap B = { x \mid x \in A  \text{ and } x \in B }$ 라는 연산을 생각하게 된다.  그런데 더 생각을 해 보면…  $A \times B = { (a,b) \mid x \in A  \text{ and } x \in B }$ 라는 연산을 떠올릴 수도 있다.  2. 관계의 구성 내용  3. 다양한 함수들  내용</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Jekyll Github 블로그에 MathJax로 수학식 표시하기</title>
+    <link href="http://localhost:4000/posts/%ED%8F%B0%EC%97%90%EC%84%9C/" rel="alternate" type="text/html" title="Jekyll Github 블로그에 MathJax로 수학식 표시하기" />
+    <published>2025-03-25T00:00:00+09:00</published>
+  
+    <updated>2025-03-25T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%ED%8F%B0%EC%97%90%EC%84%9C/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%ED%8F%B0%EC%97%90%EC%84%9C/" />
+    <author>
+      <name>Woosang</name>
+    </author>
+
+  
+    
+    <category term="기타" />
+    
+  
+
+  <summary>왜 안되노…  $y = x+1$  이제 잘 됨 우흥</summary>
+
+  </entry>
+
+</feed>
+
+
